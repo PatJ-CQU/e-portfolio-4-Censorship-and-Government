@@ -18,7 +18,7 @@ https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restric
 This article is by the e-safety commission. It contains the laws made based on the e-safety commissioners recommendations. These laws are centred around which social media platforms are excluded from the age restrictions. This article 
 
 ### Justification
-
+I chose this article, as I was curious about what was introduced with the under 16 ban on social media. When it came out I didn't look much into it as it did not effect me. So when it was mentioned in the lecture I decided to go looking into it. This effects society as it is limiting for better or for worse the children of Australia. I agree that there is content that children should not be able to view. However This being brought in could be the start of a greater censorship not just limited to children. What has come out of this is the fact that video games have also been subjected to the same censorship rules. 
 
 ## Artefact 3: Australia's eSafety Laws vs Elon Musk - Behind the News - Video
 <img width="1237" height="710" alt="image" src="https://github.com/user-attachments/assets/00d5eae1-c395-4344-9d01-3b94b747ece4" />
