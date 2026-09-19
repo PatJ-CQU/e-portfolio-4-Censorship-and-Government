@@ -6,7 +6,9 @@
 
 ### Justification
 
-## Artefact 2:
+## Artefact 2: 
+<img width="1252" height="842" alt="image" src="https://github.com/user-attachments/assets/850369b7-8b9f-4320-9be3-a21d4f1dbb55" />
+https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions
 
 ### Summary
 
