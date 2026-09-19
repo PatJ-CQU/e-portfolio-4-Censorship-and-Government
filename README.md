@@ -3,6 +3,7 @@
 ## Artefact 1: Censorship in Australia: Regulating the Internet and other recent developments - Article
 <img width="1246" height="872" alt="image" src="https://github.com/user-attachments/assets/38fe6098-8c63-44f3-bef6-aa2e55e2d159" />
 https://www.parliament.nsw.gov.au/parliamentary-business/research-and-library/research-publications-data/censorship-in-australia-regulating-the-internet
+
 ### Summary
 
 ### Justification
