@@ -5,17 +5,17 @@
 https://www.parliament.nsw.gov.au/parliamentary-business/research-and-library/research-publications-data/censorship-in-australia-regulating-the-internet
 
 ### Summary
-
+This article is by a parliamentarian researcher and covers the key points that make up how the Australian government's censorship and restriction of content. "This paper presents a background to the main issue arising from the Bill, namely the regulation of Internet content, by placing it in the broader context of censorship law administration in Australia." (Source 1) 
 
 ### Justification
-
+I chose this article as it provides background and insight to the topic of censorship in Australia. It is an older article but I like it for the reason that it provides context to before the internet grew into the behemoth that it is today. I chose this as it goes into the key decisions and milestones that were made before the 1996 censorship law. 
 
 ## Artefact 2: Social media age restrictions - Article
 <img width="1252" height="842" alt="image" src="https://github.com/user-attachments/assets/850369b7-8b9f-4320-9be3-a21d4f1dbb55" />
 https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions
 
 ### Summary
-This article is by the e-safety commission. It contains the laws made based on the e-safety commissioners recommendations. These laws are centred around which social media platforms are excluded from the age restrictions. This article also goes 
+This article is by the e-safety commission. It contains the laws made based on the e-safety commissioners recommendations. These laws are centred around which social media platforms are excluded from the age restrictions. This article 
 
 ### Justification
 
@@ -25,7 +25,7 @@ This article is by the e-safety commission. It contains the laws made based on t
 https://www.youtube.com/watch?v=SvldM7eAPN4
 
 ### Summary
-
+This is a video by the ABC. This video in particular is about the Australian e-safety commissioner legally fighting Elon Musk owner of X. This video is to do with a video being taken down in Australia, where the e-safety commissioner wanted the video deleted not just blocked.  
 
 ### Justification
 
