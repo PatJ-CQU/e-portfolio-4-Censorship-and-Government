@@ -15,7 +15,7 @@ https://www.parliament.nsw.gov.au/parliamentary-business/research-and-library/re
 https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions
 
 ### Summary
-This article is by the e-safety commission. It contains 
+This article is by the e-safety commission. It contains the laws made based on the e-safety commissioners recommendations. These laws are centred around which social media platforms are excluded from the age restrictions. This article also goes 
 
 ### Justification
 
