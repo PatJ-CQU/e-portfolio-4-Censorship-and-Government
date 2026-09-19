@@ -1,6 +1,6 @@
 # e-portfolio-4-Censorship-and-Government
 
-## Artefact 1: 
+## Artefact 1: Article - Censorship in Australia: Regulating the Internet and other recent developments
 
 https://www.parliament.nsw.gov.au/parliamentary-business/research-and-library/research-publications-data/censorship-in-australia-regulating-the-internet
 ### Summary
