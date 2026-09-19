@@ -16,7 +16,9 @@ https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restric
 
 ### Justification
 
-## Artefact 3:
+## Artefact 3: Australia's eSafety Laws vs Elon Musk - Behind the News - Video
+<img width="1237" height="710" alt="image" src="https://github.com/user-attachments/assets/00d5eae1-c395-4344-9d01-3b94b747ece4" />
+https://www.youtube.com/watch?v=SvldM7eAPN4
 
 ### Summary
 
