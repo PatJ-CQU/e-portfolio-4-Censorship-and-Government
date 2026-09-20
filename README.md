@@ -5,7 +5,7 @@
 https://www.parliament.nsw.gov.au/parliamentary-business/research-and-library/research-publications-data/censorship-in-australia-regulating-the-internet
 
 ### Summary
-This article is by a parliamentarian researcher and covers the key points that make up how the Australian government's censorship and restriction of content. "This paper presents a background to the main issue arising from the Bill, namely the regulation of Internet content, by placing it in the broader context of censorship law administration in Australia." (Source 1). This article relates to society as this is the previous decisions made on the classification and censoring of content on the internet. 
+This article is by a parliamentarian researcher and covers the key points that make up how the Australian government's censorship and restriction of content. "This paper presents a background to the main issue arising from the Bill, namely the regulation of Internet content, by placing it in the broader context of censorship law administration in Australia." (Source 1). This article relates to society as this is the previous decisions made on the classification and censoring of content on the internet. This article is a large paper with heaps of content. 
 
 ### Justification
 I chose this article as it provides background and insight to the topic of censorship in Australia. It is an older article but I like it for the reason that it provides context to before the internet grew into the behemoth that it is today. I chose this as it goes into the key decisions and milestones that were made before the 1996 censorship law.
