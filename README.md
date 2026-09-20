@@ -25,7 +25,7 @@ I chose this article, as I was curious about what was introduced with the under 
 https://www.youtube.com/watch?v=SvldM7eAPN4
 
 ### Summary
-This is a video by the ABC. This video in particular is about the Australian e-safety commissioner legally fighting Elon Musk owner of X. This video is to do with a video being taken down in Australia, where the e-safety commissioner wanted the video deleted not just blocked.  
+This is a video by the ABC. This video in particular is about the Australian e-safety commissioner legally fighting Elon Musk owner of X. This video is to do with a video being taken down in Australia, where the e-safety commissioner wanted the video deleted not just blocked. 
 
 ### Justification
 I chose this video as it is an example of the Australian governments and e-safety commissioner trying to censor a video on the internet. This is an example of them not just wanting stuff from being blocked in the country but the step further and having it removed entirely. 
