@@ -38,6 +38,6 @@ Week 9 17/09/2026, Gitte Galea, Online
 During the workshop I found the section to do with ASIC and Section 313 interesting. The discussion was around the ASIC (Australian Securities and Investment Commission) and them requesting a block on a fraudulent website. One of these request was a false positive and Melbourne Free university was blocked. When they went to the ISP they were only able to say the block request came from a government agency. The discussion then was had about this. And the word transparency came up. And it was suggested that for transparency sake that if requested they should be able to see who and why the block was requested. It was also brought up that for known phishing sites that this would be a good thing. 
 
 ### Justification
-
+I chose this part of the video as I liked the conversation that was had. I agree that within the IT realm that actively blocking known malicious sites. This will help the most vulnerable members of our society. Who may not be as tech literate. 
 
 ## References
