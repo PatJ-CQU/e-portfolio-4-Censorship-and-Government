@@ -30,7 +30,9 @@ This is a video by the ABC. This video in particular is about the Australian e-s
 ### Justification
 I chose this video as it is an example of the Australian governments and e-safety commissioner trying to censor a video on the internet. This is an example of them not just wanting stuff from being blocked in the country but the step further and having it removed entirely. 
 
-## Artefact 4:
+## Artefact 4: Week 9 Personal reflection
+<img width="1272" height="717" alt="image" src="https://github.com/user-attachments/assets/8dd61dce-2c04-4d34-9f38-5791afc9c2a6" />
+Week 9 17/09/2026, Gitte Galea, Online
 
 ### Summary
 
