@@ -35,7 +35,7 @@ I chose this video as it is an example of the Australian governments and e-safet
 Week 9 17/09/2026, Gitte Galea, Online
 
 ### Summary
-
+During the workshop I found the section to do with ASIC and Section 313 interesting. The discussion was around the ASIC (Australian Securities and Investment Commission) and them requesting a block on a fraudulent website. One of these request was a false positive and Melbourne Free university was blocked. When they went to the ISP they were only able to say the block request came from a government agency. The discussion then was had about this. And the word transparency came up. And it was suggested that for transparency sake that if requested they should be able to see who and why the block was requested. It was also brought up that for known phishing sites that this would be a good thing. 
 
 ### Justification
 
